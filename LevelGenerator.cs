@@ -20,8 +20,8 @@ public class LevelGenerator : MonoBehaviour
     #endregion
 
     #region Private Variables
-    private GameObject previous_cylinder;//yeni bir silindir olşturmadan önce en son olusturdugumuz silindiri içine atabıleceğimiz değişken yaparız.Oluşturulan silindiri kayıt eder ve bunun konumunu baz alarak hareket eder diğer silindir.
-                                         //fazladan kod yazmamızı kısaltırız.
+    private GameObject previous_cylinder;
+                                         
     #endregion
 
 
